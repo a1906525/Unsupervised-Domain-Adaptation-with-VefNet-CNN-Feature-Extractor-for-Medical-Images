@@ -1,6 +1,6 @@
 # Domain Adaptation with CNN Feature Extractors (DANN, CDAN+E)
 
-This GitHub repository showcases source pretraining and domain adaptation experiments conducted using six selected Convolutional Neural Networks (CNNs) as feature extractors. Two adversarial domain adaptation algorithms are employed: **DANN** (Domain-Adversarial Neural Network) and **CDAN+E** (Conditional Adversarial Domain Adaptation with Entropy Conditioning).
+This GitHub repository showcases source pretraining and domain adaptation experiments conducted using six selected Convolutional Neural Networks (CNNs) as feature extractors. Two adversarial domain adaptation algorithms are employed: **DANN** (Domain-Adversarial Neural Network) and **CDAN+E** (Conditional Adversarial Domain Adaptation with Entropy Conditioning). The Google Drive Links are attached below for accessing the other necessary files.
 
 ---
 
